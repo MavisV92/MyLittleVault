@@ -17,16 +17,5 @@ namespace MyLittleVault
             InitializeComponent();
         }
 
-        public void button1_Click(object sender, EventArgs e)
-        {
-            button1.Text = "gfd";
-
-
-        }
-
-        public void button2_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
