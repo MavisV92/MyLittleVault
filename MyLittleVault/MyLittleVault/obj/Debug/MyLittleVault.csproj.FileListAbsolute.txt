@@ -1,0 +1,11 @@
+C:\Users\7Ange\Documents\GitHub\MyLittleVault\MyLittleVault\MyLittleVault\bin\Debug\MyLittleVault.exe.config
+C:\Users\7Ange\Documents\GitHub\MyLittleVault\MyLittleVault\MyLittleVault\bin\Debug\MyLittleVault.exe
+C:\Users\7Ange\Documents\GitHub\MyLittleVault\MyLittleVault\MyLittleVault\bin\Debug\MyLittleVault.pdb
+C:\Users\7Ange\Documents\GitHub\MyLittleVault\MyLittleVault\MyLittleVault\obj\Debug\MyLittleVault.csproj.AssemblyReference.cache
+C:\Users\7Ange\Documents\GitHub\MyLittleVault\MyLittleVault\MyLittleVault\obj\Debug\MyLittleVault.csproj.SuggestedBindingRedirects.cache
+C:\Users\7Ange\Documents\GitHub\MyLittleVault\MyLittleVault\MyLittleVault\obj\Debug\MyLittleVault.Properties.Resources.resources
+C:\Users\7Ange\Documents\GitHub\MyLittleVault\MyLittleVault\MyLittleVault\obj\Debug\MyLittleVault.csproj.GenerateResource.cache
+C:\Users\7Ange\Documents\GitHub\MyLittleVault\MyLittleVault\MyLittleVault\obj\Debug\MyLittleVault.csproj.CoreCompileInputs.cache
+C:\Users\7Ange\Documents\GitHub\MyLittleVault\MyLittleVault\MyLittleVault\obj\Debug\MyLittleVault.exe
+C:\Users\7Ange\Documents\GitHub\MyLittleVault\MyLittleVault\MyLittleVault\obj\Debug\MyLittleVault.pdb
+C:\Users\7Ange\Documents\GitHub\MyLittleVault\MyLittleVault\MyLittleVault\obj\Debug\MyLittleVault.Form1.resources
