@@ -16,6 +16,7 @@ namespace MyLittleVault
         {
             this.Hide();
         }
+
         public Form1()
         {
             InitializeComponent();
