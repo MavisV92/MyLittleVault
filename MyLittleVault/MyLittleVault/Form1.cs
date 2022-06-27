@@ -12,6 +12,10 @@ namespace MyLittleVault
 {
     public partial class Form1 : Form
     {
+        private void Form1_Shown(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
         public Form1()
         {
             InitializeComponent();
@@ -62,5 +66,7 @@ namespace MyLittleVault
         {
             Clipboard.SetText("Proj2MySecretPass123");
         }
+
+        
     }
 }

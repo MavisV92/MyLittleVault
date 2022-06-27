@@ -111,20 +111,20 @@
             this.парольToolStripMenuItem,
             this.vPNToolStripMenuItem});
             this.проект1ToolStripMenuItem.Name = "проект1ToolStripMenuItem";
-            this.проект1ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.проект1ToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
             this.проект1ToolStripMenuItem.Text = "Проект 1";
             // 
             // логинToolStripMenuItem
             // 
             this.логинToolStripMenuItem.Name = "логинToolStripMenuItem";
-            this.логинToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.логинToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.логинToolStripMenuItem.Text = "Логин: Login123";
             this.логинToolStripMenuItem.Click += new System.EventHandler(this.логинToolStripMenuItem_Click);
             // 
             // парольToolStripMenuItem
             // 
             this.парольToolStripMenuItem.Name = "парольToolStripMenuItem";
-            this.парольToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.парольToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.парольToolStripMenuItem.Text = "Пароль";
             this.парольToolStripMenuItem.Click += new System.EventHandler(this.парольToolStripMenuItem_Click);
             // 
@@ -134,7 +134,7 @@
             this.логинToolStripMenuItem1,
             this.парольToolStripMenuItem1});
             this.vPNToolStripMenuItem.Name = "vPNToolStripMenuItem";
-            this.vPNToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.vPNToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.vPNToolStripMenuItem.Text = "VPN";
             // 
             // логинToolStripMenuItem1
@@ -157,7 +157,7 @@
             this.логинToolStripMenuItem2,
             this.парольToolStripMenuItem2});
             this.проект2ToolStripMenuItem.Name = "проект2ToolStripMenuItem";
-            this.проект2ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.проект2ToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
             this.проект2ToolStripMenuItem.Text = "Проект 2";
             // 
             // логинToolStripMenuItem2
@@ -185,7 +185,7 @@
             // ссылкаНаГуглToolStripMenuItem
             // 
             this.ссылкаНаГуглToolStripMenuItem.Name = "ссылкаНаГуглToolStripMenuItem";
-            this.ссылкаНаГуглToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.ссылкаНаГуглToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.ссылкаНаГуглToolStripMenuItem.Text = "Ссылка на гугл";
             // 
             // Form1
@@ -194,8 +194,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.WindowsDefaultBounds;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
+            this.Shown += new System.EventHandler(this.Form1_Shown);
             this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
 
